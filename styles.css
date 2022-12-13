@@ -1,0 +1,98 @@
+body, html {
+    height: 100%;
+    background-color: aqua;
+  }
+
+body {
+    font-family: 'Oswald', sans-serif;
+    background-color: gray;
+}
+
+
+  .contenttwo {
+    position: fixed;
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: large;
+    top: 0;
+    color: #c5ffd4;
+    width: 100%;
+    padding: 50px;
+    font-weight: 0;
+    text-align: left;
+
+  }
+
+  #textblock:hover {
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: large;
+    position: absolute;
+    top: 0;
+    color: #c5ffd4;
+    right: 0;
+  }
+
+.textblock:hover {
+    background-color: green;
+    position: absolute;
+    width: 400px;
+    height: 100px 
+    
+    
+}
+
+#video {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 120%;
+    height: 120%;
+  }
+
+  .content {
+    position: fixed;
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: large;
+    bottom: 0;
+    color: #c5ffd4;
+    width: 100%;
+    padding: 50px;
+    font-weight: 0;
+    text-align: left;
+  }
+
+  .topcontent {
+    position: fixed;
+    top: 0;
+    color: #ff7e3e;
+    width: 110%;
+    padding: 20px;
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: x-large;
+    text-align: left;
+    font-weight: bold;
+  }
+
+    body {
+        font-family: 'Chakra Petch', sans-serif;
+        background-color: rgb(255, 123, 83);
+    }
+      
+    #myBtn {
+        width: 600px;
+        font-size: 20px;
+        font-family: 'Chakra Petch', sans-serif;
+        padding: 10px;
+        border: #929292;
+        background: rgb(0, 0, 0);
+        background-position: 100%;
+        color: rgb(96, 119, 173);
+        cursor: pointer;
+        bottom: 0;
+        text-align: left;
+        font-weight: lighter;
+      }
+      a {
+        color: rgb(255, 130, 76);
+        ;
+      }
+    
